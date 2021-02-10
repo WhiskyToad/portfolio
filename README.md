@@ -10,6 +10,8 @@ Thanks.
 
 Steven
 
+(oh and yes I'm called toad, I'll tell you why if you employ me :D)
+
 ----------------------------
 
 Shopping Cart:<br>
@@ -33,6 +35,7 @@ Technology: React
 ---------------------------------
 
 ToaDoo:<br>
+https://github.com/WhiskyToad/toadoo-list<br>
 https://whiskytoad.github.io/toadoo-list
 
 Description: A simple todo list, added a dynamically created filter, animation for the sidebar and a hover over description.
@@ -42,6 +45,7 @@ Technology: Vanilla Javascript
 ----------------------------------------------
 
 Odin Calculator:<br>
+https://github.com/WhiskyToad/odincalculator<br>
 https://whiskytoad.github.io/odincalculator
 
 Description: One of my first projects, just a simple calculator!
