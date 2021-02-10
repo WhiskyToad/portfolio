@@ -12,8 +12,8 @@ Steven
 
 ----------------------------
 
-Shopping Cart: 
-https://github.com/WhiskyToad/shopping-cart
+Shopping Cart:<br>
+https://github.com/WhiskyToad/shopping-cart<br>
 https://whiskytoad.github.io/shopping-cart/#/
 
 Description: Just an example of a shop page, includes a meme generator (why not?), redux with persist state so the basket doesn't disappear. Item page dynamically loading whichever item you click and more nifty little things I've probably forgot! Currently not mobile friendly but I plan to come back to it to practice my refractoring skills for the real world jobs (Is a project ever truly finished?)
