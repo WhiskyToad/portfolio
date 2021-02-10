@@ -38,7 +38,7 @@ ToaDoo:<br>
 https://github.com/WhiskyToad/toadoo-list<br>
 https://whiskytoad.github.io/toadoo-list
 
-Description:<br> A simple todo list, added a dynamically created filter, animation for the sidebar and a hover over description.
+Description:<br> A simple todo list, added a dynamically created filter, animation for the sidebar and a hover over description. (and a stupid play on the name!)
 
 Technology: <br>Vanilla JS
 
