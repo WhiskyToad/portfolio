@@ -18,9 +18,9 @@ Shopping Cart:<br>
 https://github.com/WhiskyToad/shopping-cart<br>
 https://whiskytoad.github.io/shopping-cart/#/
 
-Description: Just an example of a shop page, includes a meme generator (why not?), redux with persist state so the basket doesn't disappear. Item page dynamically loading whichever item you click and more nifty little things I've probably forgot! Currently not mobile friendly but I plan to come back to it to practice my refractoring skills for the real world jobs (Is a project ever truly finished?)
+Description: <br>Just an example of a shop page, includes a meme generator (why not?), redux with persist state so the basket doesn't disappear. Item page dynamically loading whichever item you click and more nifty little things I've probably forgot! Currently not mobile friendly but I plan to come back to it to practice my refractoring skills for the real world jobs (Is a project ever truly finished?)
 
-Technology: React Redux Hashrouter And More
+Technology:<br> React<br> Redux<br> Hashrouter <br>And More
 
 ------------------------------
 
@@ -40,7 +40,7 @@ https://whiskytoad.github.io/toadoo-list
 
 Description:<br> A simple todo list, added a dynamically created filter, animation for the sidebar and a hover over description.
 
-Technology: <br>Vanilla Javascript
+Technology: <br>Vanilla JS
 
 ----------------------------------------------
 
@@ -50,4 +50,4 @@ https://whiskytoad.github.io/odincalculator
 
 Description:<br> One of my first projects, just a simple calculator!
 
-Technology:<br> Vanilla Javascript
+Technology:<br> Vanilla JS
