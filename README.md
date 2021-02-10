@@ -28,9 +28,9 @@ Memory-Game: <br>
 https://github.com/WhiskyToad/memory-game<br>
 https://whiskytoad.github.io/memory-game
 
-Description: A little game of memory, pick each one only once! I tried to jazz it up and make it a bit more card and game like than what the inital project idea was looking for, oh and I got to include some ace mountain bike photos! Enjoyed the simplicity and problem solving to get 3 different cards with one not chosen!
+Description:<br> A little game of memory, pick each one only once! I tried to jazz it up and make it a bit more card and game like than what the inital project idea was looking for, oh and I got to include some ace mountain bike photos! Enjoyed the simplicity and problem solving to get 3 different cards with one not chosen!
 
-Technology: React
+Technology:<br> React
 
 ---------------------------------
 
@@ -38,9 +38,9 @@ ToaDoo:<br>
 https://github.com/WhiskyToad/toadoo-list<br>
 https://whiskytoad.github.io/toadoo-list
 
-Description: A simple todo list, added a dynamically created filter, animation for the sidebar and a hover over description.
+Description:<br> A simple todo list, added a dynamically created filter, animation for the sidebar and a hover over description.
 
-Technology: Vanilla Javascript
+Technology: <br>Vanilla Javascript
 
 ----------------------------------------------
 
@@ -48,6 +48,6 @@ Odin Calculator:<br>
 https://github.com/WhiskyToad/odincalculator<br>
 https://whiskytoad.github.io/odincalculator
 
-Description: One of my first projects, just a simple calculator!
+Description:<br> One of my first projects, just a simple calculator!
 
-Technology: Vanilla Javascript
+Technology:<br> Vanilla Javascript
