@@ -1,6 +1,6 @@
 Hi and welcome to Steven Craig's portfolio!!1!
 
-If you're here you are most likely considering me for employment, so yay go me!
+If you're here you are most likely considering me for employment!
 
 Anyway there are a few projects in this portfolio listed from newest to oldest. You should see from my progression that from every completed project I always critique what I find is lacking and aim to improve on the next project, whilst also adding in a new technology (or 3!).
 
