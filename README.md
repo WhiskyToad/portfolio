@@ -22,8 +22,8 @@ Technology: React Redux Hashrouter And More
 
 ------------------------------
 
-Memory-Game: 
-https://github.com/WhiskyToad/memory-game
+Memory-Game: <br>
+https://github.com/WhiskyToad/memory-game<br>
 https://whiskytoad.github.io/memory-game
 
 Description: A little game of memory, pick each one only once! I tried to jazz it up and make it a bit more card and game like than what the inital project idea was looking for, oh and I got to include some ace mountain bike photos! Enjoyed the simplicity and problem solving to get 3 different cards with one not chosen!
@@ -32,7 +32,8 @@ Technology: React
 
 ---------------------------------
 
-ToaDoo: https://whiskytoad.github.io/toadoo-list
+ToaDoo:<br>
+https://whiskytoad.github.io/toadoo-list
 
 Description: A simple todo list, added a dynamically created filter, animation for the sidebar and a hover over description.
 
@@ -40,7 +41,8 @@ Technology: Vanilla Javascript
 
 ----------------------------------------------
 
-Odin Calculator: https://whiskytoad.github.io/odincalculator
+Odin Calculator:<br>
+https://whiskytoad.github.io/odincalculator
 
 Description: One of my first projects, just a simple calculator!
 
