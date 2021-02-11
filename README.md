@@ -51,3 +51,9 @@ https://whiskytoad.github.io/odincalculator
 Description:<br> One of my first projects, just a simple calculator!
 
 Technology:<br> Vanilla JS
+
+--------------------------------------------
+
+I also enjoy a quick bit of codewars now and then
+
+https://www.codewars.com/users/Whisky_Toad
