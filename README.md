@@ -10,7 +10,7 @@ Thanks.
 
 Steven
 
-(oh and yes I'm called toad, I'll tell you why if you employ me :D)
+(oh and yes I'm called toad, it's not that intresting of a story unfortunately!)
 
 ----------------------------
 
