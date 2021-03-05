@@ -1,4 +1,4 @@
-Hi and welcome to Steven Craig's portfolio!!1!
+Hi and welcome to Steven Craig's portfolio!!
 
 If you're here you are most likely considering me for employment!
 
@@ -18,8 +18,7 @@ Shopping Cart:<br>
 https://github.com/WhiskyToad/shopping-cart<br>
 https://whiskytoad.github.io/shopping-cart/#/
 
-Description: <br>Just an example of a shop page, includes a meme generator (why not?), redux with persist state so the basket doesn't disappear. Item page dynamically loading whichever item you click and more nifty little things I've probably forgot! Currently not mobile friendly but I plan to come back to it to practice my refractoring skills for the real world jobs (Is a project ever truly finished?)
-
+Description: <br>Just an example of a shop page, includes a meme generator (why not?), redux with persist state so the basket doesn't disappear. Item page dynamically loading whichever item you click and more nifty little things I've probably forgot!
 Technology:<br> React<br> Redux<br> Hashrouter <br>And More
 
 ------------------------------
