@@ -12,6 +12,15 @@ Steven
 
 (oh and yes I'm called toad, it's not that intresting of a story unfortunately!)
 
+---
+Brewers Diary (work in progress):<br>
+Description:<br>
+This is my current full stake MERN project. I dabble in homebrewing beer and I want to digitise my recipes and brew logs, so I am creating it!! Eventually I plan to build this out to a recipe based social media site.
+
+Technology:<br>
+MongoDB <br>
+Express<br>React<br>NodeJS<br>React Redux<br> Chakra UI<br> + Many more!
+
 ----------------------------
 
 Shopping Cart:<br>
